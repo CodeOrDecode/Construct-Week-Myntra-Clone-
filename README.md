@@ -34,6 +34,6 @@ Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, 
 - Sign up & Login Page
 - Product Page
 - Product description Page
-- Paymenyt Page
-- Purchase increase Functionality
+- Payment Page
+- Quantity Increment Functionality
 - Filter Functionality
